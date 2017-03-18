@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-minicart",
+  "name": "minicart-in-react-and-redux",
   "version": "1.0.0",
   "description": "Simple react redux minicart example",
   "main": "webpack.config.js",
